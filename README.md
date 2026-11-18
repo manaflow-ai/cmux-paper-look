@@ -5,8 +5,9 @@
 A warm, roomy reading look for agent chats in cmux: serif replies on off-white paper, ink-brown text,
 a sepia accent, and soft rounded prompts.
 
-Paper is a light look. Its theme file picks a light base theme and `agent-pane/theme.css` is written
-for a light chat, so use the stylesheet on its own only over a light theme.
+Paper picks a light paper theme with a sepia accent, but its chat stylesheet is made only from the
+theme's own colors, so `agent-pane/theme.css` on its own reads over a dark theme as well as a light
+one (WCAG AA, checked in both).
 
 It is built only from public surfaces, so you can copy any part of it:
 
