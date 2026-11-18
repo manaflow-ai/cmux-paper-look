@@ -17,6 +17,10 @@
     "agentPane.display.width": 720,
     "sidebar.density": "comfortable",
     "sidebar.workspaceRow.icon": true,
-    "sidebar.workspaceRow.lastActivity": false
+    "sidebar.workspaceRow.lastActivity": false,
+
+    "appearance.background": "none",
+    "appearance.backgroundBlur": "none",
+    "appearance.backgroundOpacity": 1
   }
 }
